@@ -1,0 +1,15 @@
+{
+  "name": "sistema-gerenciamento-academias",
+  "version": "1.0.0",
+  "description": "Mini Sistema de Gerenciamento de Academias - Frontend (Vanilla JS) + Backend (Node.js/Express/MongoDB)",
+  "scripts": {
+    "start": "npm --prefix backend run dev",
+    "backend:dev": "npm --prefix backend run dev",
+    "backend:start": "npm --prefix backend start",
+    "backend:test": "npm --prefix backend test",
+    "backend:seed": "npm --prefix backend run seed",
+    "frontend:start": "npm --prefix frontend start"
+  },
+  "author": "",
+  "license": "ISC"
+}
